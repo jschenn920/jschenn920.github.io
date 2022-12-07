@@ -1,6 +1,7 @@
-# jschenn920.github.io
+# jschenn920 : Professional Certificate in Data Engineering - September 2022
 
-<a href="https://jschenn920.github.io/Mini-Lesson-9.4/">Mini-Lession 9.4</a>
+![Logo](https://xpro.mit.edu/static/images/mitx-pro-logo.png)
 
-<a href="https://jschenn920.github.io/PCDE-Activity-9.1/">PCDE-Activity-9.1</a>
-
+>## Table of Contents
+* <a href="https://jschenn920.github.io/Mini-Lesson-9.4/">Mini-Lession 9.4</a>
+* <a href="https://jschenn920.github.io/PCDE-Activity-9.1/">PCDE-Activity-9.1</a>
